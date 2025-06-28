@@ -14,9 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_ogsuryansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ogsuryansh" height="30" width="40" /></a>
-  <a href="https://t.me/og_suryansh" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="og_suryansh" height="30" width="40" />
+<a href="https://t.me/og_suryansh" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" height="30" width="30"/>
 </a>
+
 
 </a>
 
