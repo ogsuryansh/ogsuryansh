@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **node.js , React , Advance python**
 
-- 👨‍💻 All of my projects are available at [https://ogsuryansh.netlify.app/](https://ogsuryansh.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ogsuryansh.netlify.app/](https://ogsuryansh.space)
 
 - 💬 Ask me about **frontend**
 
