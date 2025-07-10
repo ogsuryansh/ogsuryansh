@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suryansh</h1>
+<h1 align="center">Hi 👋, I'm 𝗦ᴜʀʏᴀɴꜱʜ『☔️』</h1>
 <h3 align="center">Full-stack developer from India, passionate about building seamless user experiences with clean frontend and solid backend architecture.</h3>
 
 - 🌱 I’m currently learning **node.js , React , Advance python**
