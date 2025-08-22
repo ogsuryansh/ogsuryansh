@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm 𝗦ᴜʀʏᴀɴꜱʜ『☔️』</h1>
 <h3 align="center">Full-stack developer from India, passionate about building seamless user experiences with clean frontend and solid backend architecture.</h3>
 
-- 🌱 I’m currently learning **node.js , React , Advance python**
+- 🌱 I’m currently working in **node.js , React , Advance python**
 
 - 👨‍💻 All of my projects are available at [https://ogsuryansh.space](https://ogsuryansh.space)
 
-- 💬 Ask me about **frontend**
+- 💬 Ask me about **FUll STACK**
 
 - 📫 How to reach me **suryansh1885@gmail.com**
 
